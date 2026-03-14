@@ -16,7 +16,7 @@ const App = () => (
     <TooltipProvider>
       <Sonner />
       <AuthProvider>
-        <BrowserRouter>
+        <BrowserRouter basename="/examples/luxury-passport">
           <Navbar />
           <Routes>
             <Route path="/" element={<Index />} />

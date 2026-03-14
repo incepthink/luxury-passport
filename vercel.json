@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/examples/luxury-passport/assets/:path*", "destination": "/assets/:path*" },
+    { "source": "/examples/luxury-passport/:path*", "destination": "/index.html" },
+    { "source": "/examples/luxury-passport", "destination": "/index.html" }
+  ]
+}
