@@ -181,7 +181,7 @@ export const products: Product[] = [
     category: "Jewelry",
     price: 7650,
     image:
-      "https://images.unsplash.com/photo-1515562141589-67f0d962e67b?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1602527418456-8b5cd2c7a4c2?w=600&h=600&fit=crop",
     description:
       "The Cartier Love Bracelet is one of the most iconic pieces of jewelry ever created. Designed by Aldo Cipullo in 1969, its screw motif symbolizes an unbreakable bond. This 18K yellow gold version comes with the signature screwdriver.",
     currentOwner: wallets[4],
@@ -360,7 +360,7 @@ export const products: Product[] = [
     category: "Jewelry",
     price: 185000,
     image:
-      "https://images.unsplash.com/photo-1599643478518-a76f59f0ff8f?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1762505464446-c0760d740aee?w=600&h=600&fit=crop",
     description:
       "This extraordinary Graff Diamond Rivière Necklace features a graduated line of exceptional round brilliant-cut diamonds, each individually selected for maximum fire and brilliance. A masterpiece of high jewelry.",
     currentOwner: wallets[4],
